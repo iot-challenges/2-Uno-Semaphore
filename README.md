@@ -6,7 +6,7 @@ Platform: Arduino UNO
 
 [Use VSCODE with Platform.io to compile the code](https://platformio.org/?ref=iotchallenges)
 
-* Instagram text
+### Instagram text
 
 [2 Uno Semaphore]
 The challenge is Turn the leds RED / GREEN / YELLOW on in sequence.
